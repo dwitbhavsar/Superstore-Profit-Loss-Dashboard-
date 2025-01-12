@@ -17,7 +17,7 @@ Category and Customer Segment Insights:
 	1)Pie charts and bar charts breaking down profit by customer segment and product category.
 
 Yearly Performance Summary:
-	1)A summary table displaying total quantity sold, total profit, and year-over-year (YoY) 		  fluctuations.
+	1)A summary table displaying total quantity sold, total profit, and year-over-year (YoY) fluctuations.
 
 Purpose:
 This dashboard is a powerful tool for understanding the financial performance of the superstore, enabling decision-makers to identify profitable regions, evaluate customer segments, and optimize product offerings.
