@@ -1,4 +1,4 @@
-This interactive dashboard provides a comprehensive analysis of key business metrics, offering insights into the profitability of a retail superstore in the United States. The dashboard includes:
+**This interactive dashboard provides a comprehensive analysis of key business metrics, offering insights into the profitability of a retail superstore in the United States. The dashboard includes:**
 
 # Key Features:
 ## Key Performance Indicators (KPIs):
